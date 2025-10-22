@@ -1,5 +1,6 @@
 Name: Chinwendu Nwazojie
-Username: Chinwendu Nwazojie
+
+Slack username: Chinwendu Nwazojie
 
 Description: This project is to deploy an nginx server on AWS.
 
